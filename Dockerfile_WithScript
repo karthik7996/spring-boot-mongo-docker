@@ -11,3 +11,6 @@ COPY initScript.sh $PROJECT_HOME/initScript.sh
 WORKDIR $PROJECT_HOME
 
 CMD ["sh","initScript.sh"]
+
+######################################################### 1st commit
+#
